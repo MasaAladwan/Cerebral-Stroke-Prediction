@@ -1,7 +1,9 @@
 ## Cerbral stroke Predicition
 
  Made by [Masa Aladwan](https://github.com/MasaAladwan) and [Asim](https://github.com/asiiiiiim)
- This repository contains the code and models used to predict the likelihood of a cerebral stroke based on various features such as age, BMI, heart disease history, work type, smoking status, and more. The project uses machine learning techniques to handle imbalanced datasets, address missing values, and implement multiple classification models for stroke prediction.
+
+ 
+This repository contains the code and models used to predict the likelihood of a cerebral stroke based on various features such as age, BMI, heart disease history, work type, smoking status, and more. The project uses machine learning techniques to handle imbalanced datasets, address missing values, and implement multiple classification models for stroke prediction.
 
 
 # Project Overview 
